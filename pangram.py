@@ -18,6 +18,7 @@ if check(word):
     print("YES")
 else:
     print("NO")
+    
 
 # another solution - common sense
 # n = int(input())
